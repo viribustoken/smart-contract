@@ -1,7 +1,5 @@
 # Proof of funds Viribustoken
-«You can check up any time you like,
-but you can’t ever leave»
-Eagels, 1989
+>«You can check up any time you like, but you can’t ever leave» Eagels, 1989
 
 ## §1. 
 Company “D. O. O. ALTNOVA” owns a copyright in the token
